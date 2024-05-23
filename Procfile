@@ -1,2 +1,1 @@
-web: startopenresty
-
+web: bin/start-nginx
