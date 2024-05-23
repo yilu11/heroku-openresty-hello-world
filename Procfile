@@ -1,1 +1,1 @@
-web: /app/openresty/bin/startopenresty	
+web: /app/openresty/bin/startopenresty
